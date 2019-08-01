@@ -1,2 +1,4 @@
-class Author < ActiveRecord::Base
+class Author < ActiveRecord::
+  
+  validation
 end
